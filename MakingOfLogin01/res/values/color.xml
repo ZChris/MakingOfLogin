@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="login_background">#fd595a</color><!--login的背景颜色粉红 -->
+	<color name="login_texthint">#cf4040</color><!--login的hint的颜色 -->
+	<color name="login_text">#ffffff</color><!--login的text的颜色 -->
+</resources>
